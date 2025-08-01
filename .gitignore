@@ -1,0 +1,35 @@
+# iOS build & user data
+DerivedData/
+*.xcuserdatad
+*.xcworkspace
+*.xcuserstate
+
+# CocoaPods
+Pods/
+
+# Binaries & models
+*.a
+*.framework/
+*.xcframework/
+*.task
+*.tflite
+*.onnx
+*.pt
+*.mlmodelc
+
+# Large binary files to ignore
+*.task
+*.a
+*.framework
+
+# Pods directory (CocoaPods)
+/ios_app/Pods/
+
+MobileCLIPExplore/Gemma2b.bin
+*.bin
+
+build/
+*.xcodeproj/xcuserdata/
+
+.DS_Store
+

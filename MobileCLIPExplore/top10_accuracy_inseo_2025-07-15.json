@@ -1,0 +1,1724 @@
+{
+  "username": "inseo",
+  "analysisDate": "2025-07-15T02:11:07.866Z",
+  "totalPlaces": 78,
+  "places": [
+    {
+      "placeName": "Los Cabos International Airport",
+      "categories": [
+        "airport"
+      ],
+      "selectedIndex": 3,
+      "distance": 1727,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1743966934696_IMG_2915.HEIC"
+        }
+      ],
+      "placeIndex": 25,
+      "location": {
+        "longitude": -109.71759666666667,
+        "latitude": 23.161036166666666
+      }
+    },
+    {
+      "placeName": "Walmart",
+      "categories": [
+        "shopping"
+      ],
+      "selectedIndex": 8,
+      "distance": 64,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732316089417_IMG_2941.HEIC"
+        }
+      ],
+      "placeIndex": 38,
+      "location": {
+        "longitude": -109.90023,
+        "latitude": 22.9025
+      }
+    },
+    {
+      "placeName": "Koi Palace - Dublin",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 13,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732408362658_IMG_3309.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732408370290_IMG_3311.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732408376692_IMG_3312.JPG"
+        }
+      ],
+      "placeIndex": 67,
+      "location": {
+        "longitude": -121.87598666666666,
+        "latitude": 37.70482833333333
+      }
+    },
+    {
+      "placeName": "Vida Tapas Y Cocteles",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 4,
+      "distance": 18,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1722032964515_IMG_3349.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1722032964610_IMG_3350.JPG"
+        }
+      ],
+      "placeIndex": 69,
+      "location": {
+        "longitude": -122.078475,
+        "latitude": 37.39483833333333
+      }
+    },
+    {
+      "placeName": "Los Gatos Creek Trail, St. Elizabeth Dr Entrance",
+      "categories": [
+        "attraction"
+      ],
+      "selectedIndex": 4,
+      "distance": 420,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1743969653539_IMG_9250.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1743969653133_IMG_9251.HEIC"
+        }
+      ],
+      "placeIndex": 82,
+      "location": {
+        "longitude": -121.915795,
+        "latitude": 37.30042
+      }
+    },
+    {
+      "placeName": "육시리 강남본점",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 4,
+      "distance": 37,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732343786081_IMG_9357.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732343795065_IMG_9359.JPG"
+        }
+      ],
+      "placeIndex": 84,
+      "location": {
+        "longitude": 127.03814716666666,
+        "latitude": 37.497745
+      }
+    },
+    {
+      "placeName": "Toenmaru Bapsang",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 5,
+      "distance": 30,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735158719656_IMG_1795.HEIC"
+        }
+      ],
+      "placeIndex": 85,
+      "location": {
+        "longitude": 127.1221,
+        "latitude": 37.48167
+      }
+    },
+    {
+      "placeName": "Starbird Chicken",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 4,
+      "distance": 167,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732423401961_IMG_1687.HEIC"
+        }
+      ],
+      "placeIndex": 101,
+      "location": {
+        "longitude": -122.38504666666667,
+        "latitude": 37.61190333333333
+      }
+    },
+    {
+      "placeName": "Mil Toast",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 3,
+      "distance": 11,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735157679413_IMG_1770.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735157790276_IMG_1774.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735157694486_IMG_1775.HEIC"
+        }
+      ],
+      "placeIndex": 105,
+      "location": {
+        "longitude": 126.990355,
+        "latitude": 37.5732
+      }
+    },
+    {
+      "placeName": "Starbucks",
+      "categories": [
+        "cafe",
+        "grocery"
+      ],
+      "selectedIndex": 4,
+      "distance": 23,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732403506371_IMG_3842.JPG"
+        }
+      ],
+      "placeIndex": 184,
+      "location": {
+        "longitude": -122.09078333333333,
+        "latitude": 37.65192166666667
+      }
+    },
+    {
+      "placeName": "모자포차",
+      "categories": [
+        "restaurant",
+        "cafe"
+      ],
+      "selectedIndex": 4,
+      "distance": 24,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732343926603_IMG_9645.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732343935541_IMG_9646.HEIC"
+        }
+      ],
+      "placeIndex": 194,
+      "location": {
+        "longitude": 128.62886166666667,
+        "latitude": 35.873536666666666
+      }
+    },
+    {
+      "placeName": "Dongdaegu Station",
+      "categories": [
+        "transportation"
+      ],
+      "selectedIndex": 3,
+      "distance": 194,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732343967720_IMG_9650.HEIC"
+        }
+      ],
+      "placeIndex": 195,
+      "location": {
+        "longitude": 128.62915,
+        "latitude": 35.878521666666664
+      }
+    },
+    {
+      "placeName": "Bistro Siam",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 20,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732406637767_IMG_3856.JPG"
+        }
+      ],
+      "placeIndex": 196,
+      "location": {
+        "longitude": -121.963395,
+        "latitude": 37.408046666666664
+      }
+    },
+    {
+      "placeName": "Bobjip",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 9,
+      "distance": 23,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1716670067970_IMG_4047.JPG"
+        }
+      ],
+      "placeIndex": 251,
+      "location": {
+        "latitude": 37.67407,
+        "longitude": -122.08293883333333
+      }
+    },
+    {
+      "placeName": "El Amigo",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 21,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1717954668929_IMG_4092.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1717958548034_IMG_4093.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735234388473_IMG_4094.JPG"
+        }
+      ],
+      "placeIndex": 256,
+      "location": {
+        "latitude": 37.22748833333333,
+        "longitude": -121.77498666666666
+      }
+    },
+    {
+      "placeName": "순천만자연생태관",
+      "categories": [
+        "attraction"
+      ],
+      "selectedIndex": 3,
+      "distance": 245,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1720915734560_IMG_2308.HEIC"
+        }
+      ],
+      "placeIndex": 278,
+      "location": {
+        "latitude": 34.88442166666667,
+        "longitude": 127.512
+      }
+    },
+    {
+      "placeName": "Seoraksan Cable Car",
+      "categories": [
+        "attraction"
+      ],
+      "selectedIndex": 9,
+      "distance": 212,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1720927265599_IMG_1961.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732252597026_IMG_1962.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732251976444_IMG_1966.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732252763668_IMG_1976.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732252607279_IMG_1985.HEIC"
+        }
+      ],
+      "placeIndex": 280,
+      "location": {
+        "latitude": 38.17400333333333,
+        "longitude": 128.487
+      }
+    },
+    {
+      "placeName": "Mauna Lani Golf",
+      "categories": [
+        "golf"
+      ],
+      "selectedIndex": 3,
+      "distance": 288,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738475662754_IMG_0312.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738475674921_IMG_0314.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738475685911_IMG_0315.HEIC"
+        }
+      ],
+      "placeIndex": 282,
+      "location": {
+        "latitude": 19.939305,
+        "longitude": -155.86435
+      }
+    },
+    {
+      "placeName": "Pho Mama",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 19,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1722751501354_IMG_4263.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732394844728_IMG_4264.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732394848863_IMG_4265.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1722751569672_IMG_4266.JPG"
+        }
+      ],
+      "placeIndex": 305,
+      "location": {
+        "latitude": 37.554388333333335,
+        "longitude": -121.98071333333333
+      }
+    },
+    {
+      "placeName": "Naked Fish",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 19,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1724735366211_IMG_4315.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732394964588_IMG_4316.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732394968592_IMG_4317.JPG"
+        }
+      ],
+      "placeIndex": 313,
+      "location": {
+        "latitude": 37.653911666666666,
+        "longitude": -122.09105
+      }
+    },
+    {
+      "placeName": "Boseung Hall",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 14,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352446575_IMG_4336.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725153541397_IMG_4337.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352455958_IMG_4338.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352464397_IMG_4339.JPG"
+        }
+      ],
+      "placeIndex": 318,
+      "location": {
+        "latitude": 37.55608,
+        "longitude": 126.92447
+      }
+    },
+    {
+      "placeName": "Kaldi Coffee",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 5,
+      "distance": 12,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726281619044_IMG_4341.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726281619346_IMG_4342.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726281619228_IMG_4343.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725153612059_IMG_4344.JPG"
+        }
+      ],
+      "placeIndex": 319,
+      "location": {
+        "latitude": 37.55598,
+        "longitude": 126.92710333333333
+      }
+    },
+    {
+      "placeName": "Jayeondo Sogeumppang (Salt Bread) in Yeonnam",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 7,
+      "distance": 18,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352411939_IMG_4346.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352420756_IMG_4347.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725184369089_IMG_4348.JPG"
+        }
+      ],
+      "placeIndex": 321,
+      "location": {
+        "latitude": 37.55958,
+        "longitude": 126.92455333333334
+      }
+    },
+    {
+      "placeName": "Starbucks Gangnam-daero",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 8,
+      "distance": 41,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725262786933_IMG_4363.JPG"
+        }
+      ],
+      "placeIndex": 328,
+      "location": {
+        "latitude": 37.50302833333333,
+        "longitude": 127.025125
+      }
+    },
+    {
+      "placeName": "강남반점",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 8,
+      "distance": 17,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725353428323_IMG_4375.JPG"
+        }
+      ],
+      "placeIndex": 332,
+      "location": {
+        "latitude": 37.50161333333333,
+        "longitude": 127.02425283333334
+      }
+    },
+    {
+      "placeName": "Daom",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 4,
+      "distance": 31,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725368097141_IMG_4388.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352334732_IMG_4389.JPG"
+        }
+      ],
+      "placeIndex": 336,
+      "location": {
+        "latitude": 37.50828666666666,
+        "longitude": 127.03336383333334
+      }
+    },
+    {
+      "placeName": "Banpo Bridge Moonlight Rainbow Fountain",
+      "categories": [
+        "attraction"
+      ],
+      "selectedIndex": 6,
+      "distance": 151,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725484380599_IMG_4396.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352297534_IMG_4398.JPG"
+        }
+      ],
+      "placeIndex": 341,
+      "location": {
+        "latitude": 37.5126335,
+        "longitude": 126.99847829999999
+      }
+    },
+    {
+      "placeName": "다복",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 9,
+      "distance": 50,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725504119690_IMG_4405.JPG"
+        }
+      ],
+      "placeIndex": 344,
+      "location": {
+        "latitude": 37.55393,
+        "longitude": 126.97111333333334
+      }
+    },
+    {
+      "placeName": "하노이쌀국수",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 7,
+      "distance": 18,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725577646381_IMG_4412.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732313110991_IMG_4413.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732313115902_IMG_4414.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725611921208_IMG_4415.JPG"
+        }
+      ],
+      "placeIndex": 346,
+      "location": {
+        "latitude": 35.88601333333333,
+        "longitude": 128.58180333333334
+      }
+    },
+    {
+      "placeName": "Oak valley",
+      "categories": [
+        "hotel"
+      ],
+      "selectedIndex": 7,
+      "distance": 83,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725706224023_IMG_4444.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732406475433_IMG_4445.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732406480315_IMG_4446.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732312883446_IMG_4447.JPG"
+        }
+      ],
+      "placeIndex": 349,
+      "location": {
+        "latitude": 37.40754666666667,
+        "longitude": 127.80832
+      }
+    },
+    {
+      "placeName": "봉화산설렁탕 단계본점",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 9,
+      "distance": 34,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725767707781_IMG_4451.JPG"
+        }
+      ],
+      "placeIndex": 353,
+      "location": {
+        "latitude": 37.345555,
+        "longitude": 127.92883833333333
+      }
+    },
+    {
+      "placeName": "풍년화로 침산점",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 22,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732335623814_IMG_4459.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732335715212_IMG_4460.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725848799592_IMG_4462.JPG"
+        }
+      ],
+      "placeIndex": 359,
+      "location": {
+        "latitude": 35.8893048,
+        "longitude": 128.5823974
+      }
+    },
+    {
+      "placeName": "Seongbuk-dong Cheonggukjang",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 8,
+      "distance": 37,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725882833619_IMG_4491.JPG"
+        }
+      ],
+      "placeIndex": 362,
+      "location": {
+        "latitude": 37.513921599999996,
+        "longitude": 127.0619234
+      }
+    },
+    {
+      "placeName": "스타벅스 판교역힐스테이트점",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 9,
+      "distance": 47,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725948337599_IMG_4496.JPG"
+        }
+      ],
+      "placeIndex": 366,
+      "location": {
+        "latitude": 37.39237,
+        "longitude": 127.11133616666666
+      }
+    },
+    {
+      "placeName": "A Twosome Place",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 3,
+      "distance": 49,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1725956950654_IMG_4497.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726047623036_IMG_4498.JPG"
+        }
+      ],
+      "placeIndex": 367,
+      "location": {
+        "latitude": 37.39597166666667,
+        "longitude": 127.11160283333334
+      }
+    },
+    {
+      "placeName": "V_lounge(브이라운지) 압구정점",
+      "categories": [
+        "bar"
+      ],
+      "selectedIndex": 6,
+      "distance": 17,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726020464582_IMG_4512.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352586269_IMG_4513.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726047307947_IMG_4514.JPG"
+        }
+      ],
+      "placeIndex": 371,
+      "location": {
+        "latitude": 37.527078333333336,
+        "longitude": 127.03778883333334
+      }
+    },
+    {
+      "placeName": "아사칸정자점",
+      "categories": [
+        "bar"
+      ],
+      "selectedIndex": 4,
+      "distance": 24,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726148772567_IMG_4538.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352632724_IMG_4539.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352636385_IMG_4540.JPG"
+        }
+      ],
+      "placeIndex": 377,
+      "location": {
+        "latitude": 37.36564666666666,
+        "longitude": 127.1067055
+      }
+    },
+    {
+      "placeName": "만리장성",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 4,
+      "distance": 12,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726196060172_IMG_4542.JPG"
+        }
+      ],
+      "placeIndex": 380,
+      "location": {
+        "latitude": 37.51528,
+        "longitude": 127.06069166666667
+      }
+    },
+    {
+      "placeName": "Daelim Changgo",
+      "categories": [],
+      "selectedIndex": 5,
+      "distance": 33,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726361660488_IMG_4570.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352706177_IMG_4573.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352708519_IMG_4574.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352711136_IMG_4575.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352715174_IMG_4576.JPG"
+        }
+      ],
+      "placeIndex": 382,
+      "location": {
+        "latitude": 37.541825,
+        "longitude": 127.05619716666666
+      }
+    },
+    {
+      "placeName": "명동칼국수",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 9,
+      "distance": 29,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732352747826_IMG_4577.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726300996639_IMG_4578.JPG"
+        }
+      ],
+      "placeIndex": 388,
+      "location": {
+        "latitude": 37.50795960000001,
+        "longitude": 127.06559209999998
+      }
+    },
+    {
+      "placeName": "비킹후스",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 5,
+      "distance": 26,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726544172860_IMG_4660.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732406373141_IMG_4663.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732406377906_IMG_4664.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732311019914_IMG_4666.JPG"
+        }
+      ],
+      "placeIndex": 396,
+      "location": {
+        "latitude": 35.1142573,
+        "longitude": 129.0403326
+      }
+    },
+    {
+      "placeName": "오륙도 해맞이공원",
+      "categories": [
+        "attraction"
+      ],
+      "selectedIndex": 4,
+      "distance": 141,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726660066539_IMG_4801.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733122487062_IMG_4808.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733122487062_IMG_4808.JPG"
+        }
+      ],
+      "placeIndex": 400,
+      "location": {
+        "latitude": 35.10165833333333,
+        "longitude": 129.12342783333332
+      }
+    },
+    {
+      "placeName": "Haedong Yonggungsa Temple",
+      "categories": [
+        "attraction"
+      ],
+      "selectedIndex": 5,
+      "distance": 140,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727163946413_IMG_4760.JPG"
+        }
+      ],
+      "placeIndex": 403,
+      "location": {
+        "latitude": 35.190153333333335,
+        "longitude": 129.222595
+      }
+    },
+    {
+      "placeName": "빙수90",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 5,
+      "distance": 34,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726660371730_IMG_4709.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732309701398_IMG_4710.JPG"
+        }
+      ],
+      "placeIndex": 405,
+      "location": {
+        "latitude": 35.156322599999996,
+        "longitude": 129.1231882
+      }
+    },
+    {
+      "placeName": "Geumho Restaurant",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 6,
+      "distance": 13,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1726808806062_IMG_5038.JPG"
+        }
+      ],
+      "placeIndex": 408,
+      "location": {
+        "latitude": 35.1160008,
+        "longitude": 129.03947829999998
+      }
+    },
+    {
+      "placeName": "Sapporo Seocho",
+      "categories": [
+        "shopping"
+      ],
+      "selectedIndex": 8,
+      "distance": 42,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727054002112_IMG_5077.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732353131641_IMG_5080.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727054002528_IMG_5081.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727054002528_IMG_5081.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727054002528_IMG_5081.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727054002528_IMG_5081.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727054002402_IMG_5083.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727054002402_IMG_5083.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727054002402_IMG_5083.JPG"
+        }
+      ],
+      "placeIndex": 416,
+      "location": {
+        "latitude": 37.499253333333336,
+        "longitude": 127.01252778333334
+      }
+    },
+    {
+      "placeName": "평양옥 뉴코아아울렛 강남점",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 26,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732353214617_IMG_5153.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732353218543_IMG_5154.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1727162139784_IMG_5155.JPG"
+        }
+      ],
+      "placeIndex": 428,
+      "location": {
+        "latitude": 37.50803,
+        "longitude": 127.00826945
+      }
+    },
+    {
+      "placeName": "Sprouts Farmers Market",
+      "categories": [
+        "grocery",
+        "cafe"
+      ],
+      "selectedIndex": 3,
+      "distance": 60,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1728868177494_IMG_5198.JPG"
+        }
+      ],
+      "placeIndex": 448,
+      "location": {
+        "latitude": 37.6493864,
+        "longitude": -122.06687579999998
+      }
+    },
+    {
+      "placeName": "MYEONGDONG JA JANG",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 4,
+      "distance": 16,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1729399018354_IMG_5201.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1729461706393_IMG_5202.JPG"
+        }
+      ],
+      "placeIndex": 449,
+      "location": {
+        "latitude": 37.69687166666667,
+        "longitude": -121.84912833333334
+      }
+    },
+    {
+      "placeName": "Ilbunjee(#1 Restaurant)",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 4,
+      "distance": 18,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1729843331678_IMG_5207.JPG"
+        }
+      ],
+      "placeIndex": 453,
+      "location": {
+        "latitude": 37.352849299999995,
+        "longitude": -121.96543770000001
+      }
+    },
+    {
+      "placeName": "Starbucks",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 3,
+      "distance": 17,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1730179970626_IMG_5250.JPG"
+        }
+      ],
+      "placeIndex": 461,
+      "location": {
+        "latitude": 33.0577332,
+        "longitude": -96.6916354
+      }
+    },
+    {
+      "placeName": "Gates B1-B19",
+      "categories": [
+        "transportation",
+        "transportation"
+      ],
+      "selectedIndex": 8,
+      "distance": 156,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1730390611736_IMG_5266.JPG"
+        }
+      ],
+      "placeIndex": 468,
+      "location": {
+        "latitude": 32.9029782,
+        "longitude": -97.04377079999999
+      }
+    },
+    {
+      "placeName": "Paris Baguette",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 4,
+      "distance": 25,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732742065466_D0BD4F7E-A4B2-41D9-BBBD-1A8202BF2E97.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732742239973_BEB436ED-BED7-4AD0-B0F2-2D79839C4D8F.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1732742501868_1A54F0F5-20CA-463E-9811-A0D230093AA4.jpg"
+        }
+      ],
+      "placeIndex": 488,
+      "location": {
+        "latitude": 37.427888333333335,
+        "longitude": -121.91130833333334
+      }
+    },
+    {
+      "placeName": "수변최고돼지국밥 본점",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 6,
+      "distance": 19,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1739746802523_IMG_4896.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733122708987_IMG_4897.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733122718573_IMG_4898.JPG"
+        }
+      ],
+      "placeIndex": 499,
+      "location": {
+        "latitude": 35.1566195,
+        "longitude": 129.1341695
+      }
+    },
+    {
+      "placeName": "Pike Street",
+      "categories": [
+        "sightseeing"
+      ],
+      "selectedIndex": 6,
+      "distance": 439,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733455171751_94C4BC93-A935-4001-A92E-117213D29293.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733455176407_8D35E1E2-ACF8-456F-8EC4-58D9BAEA2484.jpg"
+        }
+      ],
+      "placeIndex": 517,
+      "location": {
+        "latitude": 47.613963805803614,
+        "longitude": -122.33100853232712
+      }
+    },
+    {
+      "placeName": "Din Tai Fung",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 8,
+      "distance": 35,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733455657582_1B1CA0A8-74BF-46EA-8F89-BB60D3B38E0E.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733470819435_IMG_5382.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733470823070_IMG_5383.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733470825955_IMG_5384.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1733470832132_IMG_5385.JPG"
+        }
+      ],
+      "placeIndex": 518,
+      "location": {
+        "longitude": -122.33557959287648,
+        "latitude": 47.61219440099336
+      }
+    },
+    {
+      "placeName": "Ik Kil Cenote",
+      "categories": [
+        "attraction"
+      ],
+      "selectedIndex": 3,
+      "distance": 240,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735346062308_IMG_4105.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735346067907_IMG_4121.HEIC"
+        }
+      ],
+      "placeIndex": 560,
+      "location": {
+        "latitude": 20.661068,
+        "longitude": -88.550243
+      }
+    },
+    {
+      "placeName": "四姐 Special Noodle",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 31,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735587750267_B8C38858-F6FB-4C25-8DBE-786A57B767FA.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735627680585_IMG_5527.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735627686252_IMG_5530.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1735627695030_IMG_5532.JPG"
+        }
+      ],
+      "placeIndex": 574,
+      "location": {
+        "latitude": 37.42198192840855,
+        "longitude": -121.91665115322058
+      }
+    },
+    {
+      "placeName": "Fox Theatre Box Office",
+      "categories": [
+        "attraction"
+      ],
+      "selectedIndex": 6,
+      "distance": 47,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1736545630850_E8F10E9A-CD2C-4F02-9C13-3D64222A4BC9.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1736545612031_0740690F-DD81-41FB-8CD8-0BB871254622.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1736547847086_IMG_5566.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1736547879536_IMG_5577.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1736548247831_3883C70C-9FC7-4A16-B5E9-620F7AB72B60.jpg"
+        }
+      ],
+      "placeIndex": 586,
+      "location": {
+        "latitude": 37.48596222848802,
+        "longitude": -122.22957394898846
+      }
+    },
+    {
+      "placeName": "Five Guys",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 5,
+      "distance": 17,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1736553228706_0D1FA16A-64AC-4FAD-9FCA-38465260CFF4.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1736554328367_E817D3DD-57B0-4CE4-83D5-FA741985DAFA.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1736554338789_18520B7B-89CD-4C49-B538-76AE107C157D.jpg"
+        }
+      ],
+      "placeIndex": 587,
+      "location": {
+        "latitude": 37.486551048614814,
+        "longitude": -122.22939704773121
+      }
+    },
+    {
+      "placeName": "Half Moon Bay Golf Links",
+      "categories": [
+        "golf"
+      ],
+      "selectedIndex": 8,
+      "distance": 1109,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1736662622831_IMG_0556.HEIC"
+        }
+      ],
+      "placeIndex": 590,
+      "location": {
+        "latitude": 37.434881,
+        "longitude": -122.44019399999999
+      }
+    },
+    {
+      "placeName": "Namhae German Village",
+      "categories": [
+        "lodging"
+      ],
+      "selectedIndex": 7,
+      "distance": 132,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738206225871_IMG_9388.HEIC"
+        }
+      ],
+      "placeIndex": 611,
+      "location": {
+        "latitude": 34.79884666666667,
+        "longitude": 128.0395055
+      }
+    },
+    {
+      "placeName": "이모야식당",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 9,
+      "distance": 31,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738207976602_IMG_9485.HEIC"
+        }
+      ],
+      "placeIndex": 621,
+      "location": {
+        "latitude": 34.8410112,
+        "longitude": 127.89444700000001
+      }
+    },
+    {
+      "placeName": "Island Gourmet Markets at The Queen's Marketplace",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 5,
+      "distance": 33,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738465323378_IMG_0122.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738225565971_IMG_0123.HEIC"
+        }
+      ],
+      "placeIndex": 641,
+      "location": {
+        "latitude": 19.9138864,
+        "longitude": -155.8809747
+      }
+    },
+    {
+      "placeName": "La Pizza & La Pasta",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 60,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738381792779_IMG_5665.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738381836522_IMG_5666.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738381843523_IMG_5667.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738381848818_IMG_5668.JPG"
+        }
+      ],
+      "placeIndex": 653,
+      "location": {
+        "latitude": 37.32456666666667,
+        "longitude": -121.946045
+      }
+    },
+    {
+      "placeName": "Mauna Kea Golf Course",
+      "categories": [
+        "golf"
+      ],
+      "selectedIndex": 3,
+      "distance": 1331,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738383432624_IMG_0225.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738383438110_IMG_0226.HEIC"
+        }
+      ],
+      "placeIndex": 656,
+      "location": {
+        "latitude": 20.005141666666667,
+        "longitude": -155.81037833333335
+      }
+    },
+    {
+      "placeName": "SOLSOT",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 4,
+      "distance": 39,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1738993856901_IMG_1744.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1743969785463_IMG_1746.HEIC"
+        }
+      ],
+      "placeIndex": 682,
+      "location": {
+        "latitude": 37.5780768,
+        "longitude": 126.9714806
+      }
+    },
+    {
+      "placeName": "Blossom Vegan",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 5,
+      "distance": 55,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1740972343792_IMG_5722.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1740972427768_IMG_5723.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1740972521097_IMG_5725.JPG"
+        }
+      ],
+      "placeIndex": 691,
+      "location": {
+        "latitude": 37.6998512,
+        "longitude": -121.8696406
+      }
+    },
+    {
+      "placeName": "What the Pho",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 34,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1743039219009_4146188B-F29F-4A6E-9D6F-AF0B1F037607.jpg"
+        }
+      ],
+      "placeIndex": 721,
+      "location": {
+        "latitude": 33.0402401,
+        "longitude": -96.70583920000001
+      }
+    },
+    {
+      "placeName": "E Jefferson St & 14th Ave",
+      "categories": [],
+      "selectedIndex": 5,
+      "distance": 257,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1744998576182_IMG_6031.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1744998976089_IMG_6032.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1744998975672_IMG_6033.JPG"
+        }
+      ],
+      "placeIndex": 742,
+      "location": {
+        "latitude": 47.60612,
+        "longitude": -122.31356000000001
+      }
+    },
+    {
+      "placeName": "Proper Fish",
+      "categories": [
+        "attraction"
+      ],
+      "selectedIndex": 4,
+      "distance": 19,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1745046197553_IMG_6108.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1745046197087_IMG_6112.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1745046197318_IMG_6116.JPG"
+        }
+      ],
+      "placeIndex": 760,
+      "location": {
+        "latitude": 47.6252055,
+        "longitude": -122.5205975
+      }
+    },
+    {
+      "placeName": "HEYTEA (Bellevue Bravern)",
+      "categories": [
+        "cafe"
+      ],
+      "selectedIndex": 4,
+      "distance": 29,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1745191139346_IMG_6267.JPG"
+        }
+      ],
+      "placeIndex": 782,
+      "location": {
+        "latitude": 47.61611333333333,
+        "longitude": -122.19283333333334
+      }
+    },
+    {
+      "placeName": "Starbucks SEA Concourse D Gate 2",
+      "categories": [],
+      "selectedIndex": 4,
+      "distance": 73,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1745201940941_DB0804F9-9E73-436A-A110-EBE0778B14C6.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1745202440115_0017D98D-A8A0-4030-874C-DEF6FA6C6FB2.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1745203500231_85A131B6-79B4-4205-A381-393EE1112D00.jpg"
+        }
+      ],
+      "placeIndex": 785,
+      "location": {
+        "latitude": 47.44337250915983,
+        "longitude": -122.30295608866484
+      }
+    },
+    {
+      "placeName": "Dae Bak",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 3,
+      "distance": 11,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1746855277938_IMG_6310.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1746855278221_IMG_6311.JPG"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1746855278141_IMG_6312.JPG"
+        }
+      ],
+      "placeIndex": 794,
+      "location": {
+        "latitude": 37.35205,
+        "longitude": -121.986345
+      }
+    },
+    {
+      "placeName": "Callippe Preserve Golf Course",
+      "categories": [
+        "golf",
+        "attraction",
+        "sightseeing",
+        "activity"
+      ],
+      "selectedIndex": 3,
+      "distance": 672,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1746915212595_65D52C29-0BF9-4058-9E52-4E95FF5CFFB8.jpg"
+        }
+      ],
+      "placeIndex": 795,
+      "location": {
+        "latitude": 37.6267405,
+        "longitude": -121.8603759
+      }
+    },
+    {
+      "placeName": "Stanford University Bookstore",
+      "categories": [
+        "grocery"
+      ],
+      "selectedIndex": 3,
+      "distance": 48,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1750987097196_IMG_6477.JPG"
+        }
+      ],
+      "placeIndex": 822,
+      "location": {
+        "latitude": 37.42490333333333,
+        "longitude": -122.16916666666667
+      }
+    },
+    {
+      "placeName": "New Thai Elephant",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 5,
+      "distance": 10,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1751482708714_29F14728-47EE-41A4-B381-ABAAB00DF729.jpg"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1751520566284_IMG_6524.JPG"
+        }
+      ],
+      "placeIndex": 831,
+      "location": {
+        "latitude": 37.566066666666664,
+        "longitude": -122.32369166666666
+      }
+    },
+    {
+      "placeName": "Thai Orchid Restaurant",
+      "categories": [
+        "restaurant"
+      ],
+      "selectedIndex": 9,
+      "distance": 267,
+      "cloudPhotos": [
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1752469077999_IMG_1478.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1752469077900_IMG_1480.HEIC"
+        },
+        {
+          "uri": "https://s3-us-west-1.amazonaws.com/linkedspaces.fs/public/user_resources/pictures/place/606fc7c49fb5810017fadb26_1752469077852_IMG_1481.HEIC"
+        }
+      ],
+      "placeIndex": 840,
+      "location": {
+        "latitude": 38.2595136,
+        "longitude": -122.06716970000001
+      }
+    }
+  ]
+}
