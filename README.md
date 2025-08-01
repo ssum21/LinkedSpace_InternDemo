@@ -70,7 +70,8 @@ The project is built on a modular, MVVM-inspired architecture designed for scala
     > **Security Note:** The `Keys.xcconfig` file is included in the project's `.gitignore` and must not be committed to the repository.
 
 3.  **Download the LLM Model**:
-    *   Download the required `gemma-2b-it-gpu-int8.bin` model from the internally specified source (e.g., Kaggle for MediaPipe).
+    *   Download the required `gemma-2b-it-cpu-int8.bin` model from the internally specified source (e.g., Kaggle for MediaPipe).
+    *   https://huggingface.co/google/gemma-2b-it-tflite/tree/main
     *   Drag and drop the downloaded `.bin` file into the `MobileCLIPExplore` folder within the Xcode project navigator.
     *   In the dialog that appears, ensure that **"Copy items if needed"** and **"Add to targets: MobileCLIPExplore"** are both checked.
 
